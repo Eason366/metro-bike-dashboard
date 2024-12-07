@@ -1,7 +1,7 @@
 {
   "name": "metro-bike-dashboard",
   "version": "0.1.0",
-  "homepage": "https://saketh1305.github.io/project-team_path_finders",
+  "homepage": "https://Eason366.github.io/metro-bike-dashboard",
   "private": true,
   "dependencies": {
     "@deck.gl/core": "^9.0.35",
